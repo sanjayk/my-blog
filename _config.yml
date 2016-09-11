@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Sanjay's Blog
+email:
+author:      Sanjay
+description: "Stuff about Code, Product, Management, Work in general"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://maarker.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
