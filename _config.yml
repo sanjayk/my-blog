@@ -6,6 +6,7 @@ description: "Stuff about Code, Product, Management, Work in general"
 baseurl:     ""
 url:         "http://maarker.com"
 date_format: "%b %-d, %Y"
+encoding: utf-8
 
 # Google services
 google_verification:
@@ -113,5 +114,6 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
