@@ -2,7 +2,7 @@
 title:       Sanjay's Blog
 email:
 author:      Sanjay
-description: "Stuff about Code, Product, Management, Work in general and sometimes Fitness"
+description: "Stuff about Code, Product, Leadership, Work in general and sometimes Fitness"
 baseurl:     ""
 url:         "http://maarker.com"
 date_format: "%b %-d, %Y"
@@ -107,6 +107,18 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
+# Markdown Processors
+rdiscount:
+  extensions: []
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
 permalink:    pretty
 paginate:     4
 sass:
