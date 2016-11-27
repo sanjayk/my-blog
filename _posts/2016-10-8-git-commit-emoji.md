@@ -26,6 +26,7 @@ categories: Engineering
 | Delete Files            | &#x274C; :x:             |
 | Code cleanup            | &#x1F3A8; :art:          |
 | Performance             | &#x1F680; :rocket:       |
+| Chore                   | &#x1F4A4; :zzz:          |
 |-------------------------+--------------------------+
 |=========================+==========================+
 |                                                    |
